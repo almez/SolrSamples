@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SearchLibrary/v15
+/SearchLibrary/obj/Debug
+/packages
+/SearchLibrary.Site/bin
+/SearchLibrary.Site/obj/Debug
+/.vs/config
+/SearchLibrary/bin/Debug
+/SearchLibrary.Site/App_Data/courses.json
