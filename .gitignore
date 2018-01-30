@@ -10,3 +10,6 @@
 /.vs/config
 /SearchLibrary/bin/Debug
 /SearchLibrary.Site/App_Data/courses.json
+/SearchLibrary/obj/Release
+/.vs
+/SearchLibrary.Site/obj/Release
